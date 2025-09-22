@@ -1,0 +1,12 @@
+{
+  "name": "nursen_yozkazar_ui_case",
+  "version": "1.0.0",
+  "description": "Cypress testleri",
+  "scripts": {
+    "test": "cypress run",
+    "cypress-open": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^13.6.0"
+  }
+}
